@@ -1,0 +1,51 @@
+.footer {
+  background-color: white;
+  text-align: center;
+  height: 100px;
+}
+.divider {
+  background-color: #364d79;
+}
+.footerTitle {
+  color: black;
+  padding-bottom: 20px;
+}
+.bodyTitle {
+  color: grey;
+}
+.bodyTitleFont {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 30px;
+  margin-left: 70px;
+}
+.weatherForecast {
+  width: 300px;
+  border-radius: 20px;
+  background-color: orange;
+}
+.cardFontColor {
+  color: white;
+  font-weight: bold;
+}
+.cardWeatherIcon {
+  float: right;
+}
+.carouselTextMargin {
+  margin-top: -130px;
+}
+.carouselContentStyle {
+  height: 350px;
+  color: #fff;
+  line-height: 160px;
+  text-align: center;
+  margin: 20px;
+  border-radius: 30px;
+  padding-top: 50px;
+  position: relative;
+  background: #364d79;
+}
+.labelFont {
+  font-size: 15px;
+  font-weight: "bold";
+}
